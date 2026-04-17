@@ -47,7 +47,10 @@ O ranking é salvo em `ranking.json` e exibido ordenado por pontuação (maior p
 ## ☀️💧☠️🔥🌳 Projeto 2 — Magic: The Gathering
 
 ### Sobre
-Jogo de adivinhação usando cartas **reais** do MTG, buscadas em tempo real via [API Scryfall](https://scryfall.com/docs/api). O ranking é salvo localmente em `ranking_magic.json`.
+Jogo de adivinhação usando cartas **reais** do MTG, buscadas em tempo real via [API Scryfall](https://scryfall.com/docs/api). O ranking é salvo localmente em `ranking_magic.json`. Existem três modos de jogo:
+- Qualquer carta (Padrão)
+- Coleção Especifica
+- Intervalo entre coleções 
 
 ### Dependências
 ```bash
