@@ -10,7 +10,7 @@ Uma coleção de dois projetos de jogos de adivinhação desenvolvidos em Python
 
 ---
 
-## Projeto 1 — Adivinhação de 
+## Projeto 1 — Adivinhação de Cartas
 
 ### Sobre
 Dois modos de jogo em um único arquivo, ambos com sistema de ranking salvo localmente em `ranking.json`.
